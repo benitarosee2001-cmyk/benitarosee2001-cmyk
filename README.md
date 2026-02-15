@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Benita 🌸
 
-<!--
-**benitarosee2001-cmyk/benitarosee2001-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Python learner and aspiring Data Engineer. I build projects to learn by doing and continuously improve my coding skills.
 
-Here are some ideas to get you started:
+## Skills
+- Python (beginner → intermediate, progressing daily)
+- Git & GitHub (version control & project management)
+- Data Engineering concepts (SQL, Pandas, basic ETL)
+- Problem solving & project-based learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- python_project_01 – Python exercises and practice projects
+- Future projects: Data cleaning, analysis, mini automation scripts, and portfolio projects
+
+## Connect with Me
+- [LinkedIn](_LINKEDIN_URL) – Let's connect!
+- GitHub is my coding diary 🚀
